@@ -17,6 +17,6 @@ Implementações:
  
   Ainda não implementado
  
- 3.React Native
+ 3. React Native
  
   Ainda não implementado
