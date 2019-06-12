@@ -12,7 +12,7 @@ mongoose.connect('mongodb+srv://testuser:testpassword@cluster0-ykxxn.gcp.mongodb
     useNewUrlParser: true
 })
 
-prompt.use((req, res, next) => {
+app.use((req, res, next) => {
     req.io = io
     next()
 })
