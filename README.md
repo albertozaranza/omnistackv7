@@ -21,4 +21,6 @@ Implementações:
 
 3. React Native
  
-> Ainda não implementado
+> * Criação de uma interface semelhante à do Instagram
+> * Funcionalidade de like nas fotos publicadas
+> * Possibilidade de criar novas publicações
